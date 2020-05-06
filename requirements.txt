@@ -45,7 +45,7 @@ mathparse==0.1.2
 mkl-service==2.3.0
 mock==4.0.1
 mongoengine==0.15.3
-nltk==3.3
+nltk==3.4.5
 numpy==1.15.2
 oauthlib==2.1.0
 pandas==0.23.4
