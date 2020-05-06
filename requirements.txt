@@ -18,7 +18,7 @@ chatterbot-corpus==1.1.4
 Click==7.0
 cryptography==2.8
 docutils==0.14
-Flask==0.12.2
+Flask==1.0
 Flask-WTF==0.14.2
 future==0.17.1
 gast==0.2.0
