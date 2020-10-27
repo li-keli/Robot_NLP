@@ -16,7 +16,7 @@ chardet==3.0.4
 ChatterBot==0.8.7
 chatterbot-corpus==1.1.4
 Click==7.0
-cryptography==2.8
+cryptography==3.2
 docutils==0.14
 Flask==0.12.2
 Flask-WTF==0.14.2
