@@ -64,7 +64,7 @@ PyYAML==3.13
 redis==2.10.6
 requests==2.19.1
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 scikit-learn==0.20.0
 scipy==1.1.0
