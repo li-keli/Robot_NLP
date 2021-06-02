@@ -74,7 +74,7 @@ SQLAlchemy==1.2.13
 tensorboard==1.11.0
 tensorflow==1.11.0
 termcolor==1.1.0
-urllib3==1.23
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.14.1
 wrapt==1.12.1
